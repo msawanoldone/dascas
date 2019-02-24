@@ -11,7 +11,7 @@ const ytdl = require('ytdl-core');
 const fs = require('fs');
 const gif = require("gif-search");
 const prefix = "2"
-const adminprefix = "2"
+const adminprefix = "b"
 /////////////////////////
 ////////////////////////
 //////////////////////
